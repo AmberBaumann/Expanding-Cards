@@ -60,4 +60,8 @@ body{
     .panel:nth-of-type(5){
         display: none;
     }
+
+    h2{
+        text-align: center;
+    }
 }
