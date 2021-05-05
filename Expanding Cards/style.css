@@ -6,7 +6,6 @@
 
 body{
     font-family: 'Muli', sans-serif;
-    display: flex;
     align-items: center;
     justify-content: center;
     height: 100vh;
@@ -30,7 +29,7 @@ body{
     flex: 0.5;
     margin: 10px;
     position: relative;
-    transition: flex 0.7s ease-in;
+    transition: flex 0.5s ease-in;
 }
 
 .panel h3 {
@@ -62,6 +61,11 @@ body{
     }
 
     h2{
+        text-align: center;
+    }
+
+    h1{
+        display: block;
         text-align: center;
     }
 }
