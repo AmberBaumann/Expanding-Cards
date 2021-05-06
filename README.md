@@ -1,1 +1,54 @@
-# Expanding-Cards
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Expanding Cards</title>
+</head>
+
+<body>
+    <header>
+        <h1>Seated Sun Salutation</h1>
+    </header>
+    <div class="container">
+        <div class="panel active"
+            style="background-image: url('Images/Chair_01\ \(1\).JPG')">
+            <h3>Seated Mountain Pose</h3>
+        </div>
+        <div class="panel"
+            style="background-image: url('Images/Chair_02\ \(1\).JPG')">
+            <h3>Inhale Arms Up</h3>
+        </div>
+        <div class="panel"
+            style="background-image: url('Images/Chair_03\ \(1\).JPG')">
+            <h3>Seated Forward Fold</h3>
+        </div>
+        <div class="panel"
+            style="background-image: url('Images/Chair_06.JPG')">
+            <h3>Seated Lunge</h3>
+        </div>
+        <div class="panel"
+            style="background-image: url('Images/Chair_08.JPG')">
+            <h3>Seated Cat</h3>
+        </div>
+        <div class="panel"
+            style="background-image: url('Images/Chair_09.JPG')">
+            <h3>Seated Cow</h3>
+        </div>
+        <div class="panel"
+            style="background-image: url('Images/Chair_01\ \(1\).JPG')">
+            <h3>Seated Mountain Pose</h3>
+        </div>
+
+
+
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
