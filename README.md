@@ -6,9 +6,9 @@ A movement app created with HTML, CSS, and JavaScript.
  * General info
    * This is a demo app that has inspired a larger project where users can work through three different sun salutation sequences.
  * Technologies
-   *CSS
-   *HTML
-   *JavaScript
+   * CSS
+   * HTML
+   * JavaScript
  * Setup
  * Status
    *Demo
